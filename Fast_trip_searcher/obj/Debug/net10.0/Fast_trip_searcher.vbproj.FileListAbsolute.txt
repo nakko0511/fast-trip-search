@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Fast_trip_searcher\Fast_trip_searcher\bin\Debug\net10.0\Fast_trip_searcher.exe
+C:\Users\user\source\repos\Fast_trip_searcher\Fast_trip_searcher\bin\Debug\net10.0\Fast_trip_searcher.deps.json
+C:\Users\user\source\repos\Fast_trip_searcher\Fast_trip_searcher\bin\Debug\net10.0\Fast_trip_searcher.runtimeconfig.json
+C:\Users\user\source\repos\Fast_trip_searcher\Fast_trip_searcher\bin\Debug\net10.0\Fast_trip_searcher.dll
+C:\Users\user\source\repos\Fast_trip_searcher\Fast_trip_searcher\bin\Debug\net10.0\Fast_trip_searcher.pdb
+C:\Users\user\source\repos\Fast_trip_searcher\Fast_trip_searcher\obj\Debug\net10.0\Fast_trip_searcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Fast_trip_searcher\Fast_trip_searcher\obj\Debug\net10.0\Fast_trip_searcher.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Fast_trip_searcher\Fast_trip_searcher\obj\Debug\net10.0\Fast_trip_searcher.AssemblyInfo.vb
+C:\Users\user\source\repos\Fast_trip_searcher\Fast_trip_searcher\obj\Debug\net10.0\Fast_trip_searcher.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Fast_trip_searcher\Fast_trip_searcher\obj\Debug\net10.0\Fast_trip_searcher.dll
+C:\Users\user\source\repos\Fast_trip_searcher\Fast_trip_searcher\obj\Debug\net10.0\refint\Fast_trip_searcher.dll
+C:\Users\user\source\repos\Fast_trip_searcher\Fast_trip_searcher\obj\Debug\net10.0\Fast_trip_searcher.pdb
+C:\Users\user\source\repos\Fast_trip_searcher\Fast_trip_searcher\obj\Debug\net10.0\Fast_trip_searcher.genruntimeconfig.cache
+C:\Users\user\source\repos\Fast_trip_searcher\Fast_trip_searcher\obj\Debug\net10.0\ref\Fast_trip_searcher.dll

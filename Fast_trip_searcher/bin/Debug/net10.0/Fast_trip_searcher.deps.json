@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Fast_trip_searcher/1.0.0": {
+        "runtime": {
+          "Fast_trip_searcher.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fast_trip_searcher/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
