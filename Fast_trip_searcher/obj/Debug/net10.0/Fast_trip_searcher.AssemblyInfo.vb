@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Fast_trip_searcher"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db97da9955c874addf2b25e6985e60f74cebfc9d"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40bb260b6db54b63433cb6e53092ae9c756e46d0"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Fast_trip_searcher"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Fast_trip_searcher"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 
